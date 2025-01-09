@@ -129,5 +129,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inikhilkedia&show_icons=true&locale=en&layout=compact" alt="inikhilkedia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inikhilkedia&show_icons=true&locale=en" alt="inikhilkedia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inikhilkedia&" alt="inikhilkedia" /></p>
