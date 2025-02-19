@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **inikhilkedia@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1M0Qy7jhXV8wBbpn-2qF6n-rr66yvlukY/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14SI5_PZgE2xNyt8eJv9WQkN1w7AF59AX/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
