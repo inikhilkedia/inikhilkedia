@@ -85,8 +85,8 @@
   </td>
   <td>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" />
-    <img src="https://user-images.githubusercontent.com/64985836/268816413-5b4b8207-1c45-4748-b8b3-1572aefb70c5.png" alt="Optimizely" width="80" />
-    <img src="https://user-images.githubusercontent.com/64985836/268817654-16f2f5e7-0ae1-4950-91d1-9c8d21e6dc59.png" alt="New Relic" width="80" />
+    <img src="//logotyp.us/file/optimizely.svg" alt="Optimizely"/><a href="//logotyp.us/logo/optimizely" alt="Optimizely" width="80" />
+    <img src="https://newrelic.com/sites/default/files/2022-05/MediaAsset_Tiles_RGB_REV_HZ.svg" alt="New Relic" width="80" />
   </td>
 </tr>
 </table>
