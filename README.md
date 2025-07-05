@@ -23,7 +23,7 @@
 - 💬 Ask me about **Frontend Development, System Design, or Modern React**
 
 📫 Reach me at **inikhilkedia@gmail.com**  
-📄 [View My Resume](https://drive.google.com/file/d/1B3tsDH7YYkLyHEDu_pnwdLJyinSd9A8J/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/1C4Dy9JRkuGUNn9ieNUpQCG8ezQ3RTBMs/view?usp=sharing)
 
 ---
 
