@@ -10,7 +10,7 @@
 ### 🚀 What I Bring to the Table
 
 - 💡 12+ years of frontend engineering experience across e-commerce, startups, and platforms at scale  
-- 🚀 Led UX revamps at Zenni Optical that boosted conversion by 250% and reduced bounce rate by 32%  
+- 🚀 Led UX revamps at Zenni Optical that boosted conversion by 250% and reduced bounce rate by 32%, increasing revenue by ~ $180M during my tenure
 - ⚙️ Strong with React, Next.js, TypeScript, and performance tuning across legacy and modern stacks  
 - 🎯 Passionate about clean architecture, design systems, and AI-powered user experiences  
 
