@@ -85,7 +85,7 @@
   </td>
   <td>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" />
-    <img src="//logotyp.us/file/optimizely.svg" alt="Optimizely"/><a href="//logotyp.us/logo/optimizely" alt="Optimizely" width="80" />
+    <img src="https://firstlinesoftware.com/wp-content/uploads/2024/06/Optimizely_Logo_Full-Color_Dark_hS40gNw.png" alt="Optimizely" width="100"/>
     <img src="https://newrelic.com/sites/default/files/2022-05/MediaAsset_Tiles_RGB_REV_HZ.svg" alt="New Relic" width="80" />
   </td>
 </tr>
